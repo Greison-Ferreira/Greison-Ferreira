@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greison Ferreira</h1>
-<h3 align="center">A passionate about data sciences from Brazil</h3>
+<h3 align="center">A student passionate about data science from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greison-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="greison-ferreira" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science and Artificial Intelligence projects**
 
-- 💬 Ask me about **technology, foreign trade, economics and artificial intelligence; It will be a pleasure to help you ;)**
+- 💬 Ask me about **Technology, Foreign Trade, Economics and AI; It will be a pleasure to help you ;)**
 
 - 📫 How to reach me **greison.ferreira@outlook.com**
 
