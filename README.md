@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/greison-ferreira/greison-ferreira/raw/main/assets/github.gif" alt="Hi 👋🏻, I'm Greison Ferreira A passionate self-learner about Data Science 🚀">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Greison Ferreira</h1>
 <h3 align="center">A student passionate about data science from Brazil</h3>
 
