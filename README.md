@@ -26,7 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greison-ferreira&show_icons=true&locale=en" alt="greison-ferreira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greison-ferreira&" alt="greison-ferreira" /></p>
-### Hi there 👋
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
