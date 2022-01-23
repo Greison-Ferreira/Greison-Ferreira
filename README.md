@@ -3,9 +3,6 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Greison Ferreira</h1>
-<h3 align="center">A student passionate about data science from Brazil</h3>
-
 
 
 - 🌱 I’m currently learning **Python, R, Docker and SQL**
