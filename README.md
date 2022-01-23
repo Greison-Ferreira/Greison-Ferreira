@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/greison-ferreira/greison-ferreira/raw/main/assets/github.gif" alt="Hi 👋🏻, I'm Greison Ferreira A passionate self-learner about Data Science 🚀">
+  <img src="https://github.com/greison-ferreira/greison-ferreira/raw/main/assets/header-github.gif" alt="Hi 👋🏻, I'm Greison Ferreira A passionate self-learner about Data Science 🚀">
 </p>
 
 
