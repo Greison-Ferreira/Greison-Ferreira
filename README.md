@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, R, Docker and SQL**
 - 👯 I’m looking to collaborate on **Data Science and Artificial Intelligence projects**
-- 💬 Ask me about **Technology, Foreign Trade, Economics and AI; It will be a pleasure to help you ;)**
+- 💬 Ask me about **Psychology, Technology, Foreign Trade, Economics and AI; It will be a pleasure to help you ;)**
 - 📫 How to reach me **greison.ferreira@outlook.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/greison-ferreira/](https://www.linkedin.com/in/greison-ferreira/)
 - ⚡ Fun fact **I'm really curious about the human mind and neurosciences**
